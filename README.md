@@ -43,4 +43,4 @@ I'm Tom and I'm 25 years old. My passion is programming in Java, but I also have
 ![](https://img.shields.io/badge/Code-css-informational?style=flat&logo=css&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=white&color=4AB197)
 
-[![Kieselbrecher's GitHub Banner](github_footer.png)]
+![Kieselbrecher's GitHub Banner](github_footer.png)
