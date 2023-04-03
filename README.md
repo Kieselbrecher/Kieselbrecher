@@ -37,4 +37,4 @@ I'm Tom and I'm 25 years old. My passion is programming in Java, but I also have
 
 # 💼 Skills
 
-[](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
